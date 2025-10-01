@@ -24,8 +24,8 @@ ADMIN_CHAT_IDS = os.getenv("ADMIN_CHAT_IDS", "").split(",")  # comma separated I
 # =================================================================
 # Old chat IDs kept for the first run
 INITIAL_CHAT_IDS = [
-    "-1003073839183",
-    "-1002907713631"
+    "-1001754457302",
+    "-1001626004802"
 ]
 LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
